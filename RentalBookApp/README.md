@@ -7,6 +7,27 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+# BookMe
+
+自分の持っている本を仲間とシェアできるアプリ
+
+## 機能リスト
+- 投稿機能
+- 更新機能
+- 一覧機能
+- 投稿削除機能
+- コメント機能
+- 通知機能
+- レンタル機能
+
+## 使われている技術
+- Laravel
+- jQuery
+- Bootstrap
+
+Written By Jin Kanekama
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
