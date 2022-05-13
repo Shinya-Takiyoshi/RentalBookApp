@@ -25,6 +25,8 @@
 - jQuery
 - Bootstrap
 
+Written By Jin Kanekama
+
 
 ## About Laravel
 
